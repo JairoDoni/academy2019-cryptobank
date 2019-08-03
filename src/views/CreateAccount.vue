@@ -64,6 +64,14 @@ export default {
 </script>
 
 <style scoped>
+  label{
+      font-family:'Roboto',sans-serif;
+      font-weight: bold;
+      font-size: 15px;
+      height: 18px;
+      width: 42px;
+      color: #F2F2F2;
+    }
   .createaccount {
     overflow: auto;
     background: url("../assets/fundo.png") no-repeat center center fixed;
