@@ -1,29 +1,22 @@
-# criptobank
+# academy2019-cryptobank
 
-## Project setup
-```
+# instalar vue cli
+yarn global add @vue/cli
+
+vue create criptobank
+
+# instalar yarn 
 yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+yarn serve
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+#Intalar Firebase e Baixar dependencias de firebase(Functions)
+npm install --save firebase
 
-### Run your tests
-```
-yarn run test
-```
+firebase init
 
-### Lints and fixes files
-```
-yarn run lint
-```
+#instalar dependencias
+npm install --save
+#para update
+npm install -g npm
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
